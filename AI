@@ -2,7 +2,6 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,perplexity
 DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,challenges.cloudflare.com
@@ -14,4 +13,3 @@ DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai.com
